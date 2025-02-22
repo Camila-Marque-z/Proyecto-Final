@@ -10,11 +10,14 @@ def salida():
     print("SALISTE")
 
 
+
 while True:
     print("\nBienvenido")  
  
     print("\n¿Que deseas realizar?")
  
+    print("\nIngresa tu hora de entrada y tu hora de salida en formato militar")
+
     print("\nEscribe 1 para registrar tu entrada.\nEscribe 2 para registrar tu salida.\nEscribe 3 para ver tus horas trabajadas.\nEscribe 4 para ver de cuanto es tu pago total por tus horas trabajadas.\nEscribe 5 para salir. ")
 
     
